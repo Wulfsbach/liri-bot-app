@@ -21,7 +21,9 @@ Technologies Used
 Node.js
 Javascript
 Twitter NPM Package - https://www.npmjs.com/package/twitter
+
 Spotify NPM Package - https://www.npmjs.com/package/spotify
+
 Request NPM Package - https://www.npmjs.com/package/request
 
 Authors
