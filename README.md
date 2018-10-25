@@ -1,9 +1,9 @@
 
-About
+#About
 
 Liri is a Languange Interpretation and Recognition Interface. LIRI is also a command line node application that takes in parameters and then gives back data.
 
-Commands
+#Commands
 
 The following commands are used to interact with the Liri Bot:
 
@@ -16,7 +16,7 @@ movie-this
 do-what-it-says
 
 
-Technologies Used
+#Technologies Used
 
 Node.js
 Javascript
@@ -26,6 +26,6 @@ Spotify NPM Package - https://www.npmjs.com/package/spotify
 
 Request NPM Package - https://www.npmjs.com/package/request
 
-Authors
+#Authors
 
 Edward Temelkos
